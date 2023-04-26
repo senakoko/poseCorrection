@@ -27,4 +27,4 @@ python mainApp.py
 ```
 
 ### Note:
-Edit the config.yaml file to match your settings
+Edit the <strong> config.yaml </strong> file to match your settings
