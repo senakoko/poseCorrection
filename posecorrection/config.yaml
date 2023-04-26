@@ -1,0 +1,11 @@
+### Define where most of your videos and H5 files are located. The GUI uses this information as the initial folder to
+### open the file browser
+
+videos_main_path:
+- /Users/senaagezo/Downloads/Oxytocin/Vole_28/
+
+h5files_path:
+- /Users/senaagezo/Downloads/Oxytocin/Vole_28/
+
+frames_path:
+- /Users/senaagezo/Downloads/Oxytocin/labeled-data/
